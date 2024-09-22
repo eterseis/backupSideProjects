@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Greed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|c:\\users\\administrator\\source\\repos\\greed\\greed\\core\\realmofthemadgod\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|solutionrelative:greed\\core\\realmofthemadgod\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|c:\\users\\administrator\\source\\repos\\greed\\greed\\core\\realmofthemadgod\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|solutionrelative:greed\\core\\realmofthemadgod\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|c:\\users\\administrator\\source\\repos\\greed\\greed\\core\\cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|solutionrelative:greed\\core\\cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|c:\\users\\administrator\\source\\repos\\greed\\greed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E37A6F5-D4EB-4A93-8E5C-1FCA6FA75C5E}|Greed\\Greed.csproj|solutionrelative:greed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Core\\RealmOfTheMadGod\\Renderer.cs",
+              "RelativeDocumentMoniker": "Greed\\Core\\RealmOfTheMadGod\\Renderer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Core\\RealmOfTheMadGod\\Renderer.cs",
+              "RelativeToolTip": "Greed\\Core\\RealmOfTheMadGod\\Renderer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:53:07.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cheese.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Core\\Cheese.cs",
+              "RelativeDocumentMoniker": "Greed\\Core\\Cheese.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Core\\Cheese.cs",
+              "RelativeToolTip": "Greed\\Core\\Cheese.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:53:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Core\\RealmOfTheMadGod\\Methods.cs",
+              "RelativeDocumentMoniker": "Greed\\Core\\RealmOfTheMadGod\\Methods.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Core\\RealmOfTheMadGod\\Methods.cs",
+              "RelativeToolTip": "Greed\\Core\\RealmOfTheMadGod\\Methods.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:44:24.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Program.cs",
+              "RelativeDocumentMoniker": "Greed\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Greed\\Greed\\Program.cs",
+              "RelativeToolTip": "Greed\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:50:31.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  Program.c
+C:\Users\Administrator\source\repos\LearningC\Program.c(6,2): warning C4013: 'ex001' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\LearningC\Program.c(27,1): warning C4716: 'ex002': must return a value
+C:\Users\Administrator\source\repos\LearningC\Program.c(16,1): warning C4716: 'ex001': must return a value
+  LearningC.vcxproj -> C:\Users\Administrator\source\repos\LearningC\x64\Debug\LearningC.exe

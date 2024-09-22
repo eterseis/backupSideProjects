@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Mouse\Mouse\bin\Debug\net8.0\Icicle.deps.json
+C:\Users\Administrator\source\repos\Mouse\Mouse\bin\Debug\net8.0\Icicle.dll
+C:\Users\Administrator\source\repos\Mouse\Mouse\bin\Debug\net8.0\Icicle.pdb
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\Icicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\Icicle.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\Icicle.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\Icicle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\Icicle.dll
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\refint\Icicle.dll
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\Icicle.pdb
+C:\Users\Administrator\source\repos\Mouse\Mouse\obj\Debug\net8.0\ref\Icicle.dll

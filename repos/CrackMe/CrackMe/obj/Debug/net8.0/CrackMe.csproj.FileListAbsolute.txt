@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\bin\Debug\net8.0\CrackMe.exe
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\bin\Debug\net8.0\CrackMe.deps.json
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\bin\Debug\net8.0\CrackMe.runtimeconfig.json
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\bin\Debug\net8.0\CrackMe.dll
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\bin\Debug\net8.0\CrackMe.pdb
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.dll
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\refint\CrackMe.dll
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.pdb
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\ref\CrackMe.dll
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CrackMe\CrackMe\obj\Debug\net8.0\CrackMe.AssemblyInfo.cs

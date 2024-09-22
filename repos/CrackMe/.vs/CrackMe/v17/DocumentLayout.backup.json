@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\CrackMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C25AC87-D245-4E5A-A52A-5FCD5BEC875C}|CrackMe\\CrackMe.csproj|c:\\users\\administrator\\source\\repos\\crackme\\crackme\\crackme.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0C25AC87-D245-4E5A-A52A-5FCD5BEC875C}|CrackMe\\CrackMe.csproj|solutionrelative:crackme\\crackme.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C25AC87-D245-4E5A-A52A-5FCD5BEC875C}|CrackMe\\CrackMe.csproj|c:\\users\\administrator\\source\\repos\\crackme\\crackme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C25AC87-D245-4E5A-A52A-5FCD5BEC875C}|CrackMe\\CrackMe.csproj|solutionrelative:crackme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrackMe",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CrackMe\\CrackMe\\CrackMe.csproj",
+              "RelativeDocumentMoniker": "CrackMe\\CrackMe.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CrackMe\\CrackMe\\CrackMe.csproj",
+              "RelativeToolTip": "CrackMe\\CrackMe.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T19:53:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CrackMe\\CrackMe\\Program.cs",
+              "RelativeDocumentMoniker": "CrackMe\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CrackMe\\CrackMe\\Program.cs",
+              "RelativeToolTip": "CrackMe\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:31:14.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

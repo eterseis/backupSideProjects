@@ -1,0 +1,13 @@
+﻿<Window x:Class="AutoClicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoClicker"
+        mc:Ignorable="d"
+        Title="AnotherClicker" Height="400" Width="400" Background="Gray">
+    <Grid>
+        <Image Source="C:\Users\Administrator\source\repos\AutoClicker\Resources\eye.ico" Height="100" VerticalAlignment="Top" HorizontalAlignment="Center" />
+        <ToggleButton Name="Egg" Click="Egg_Click" Background="Black" Foreground="White" Height="50" Width="50" Content="Switch" FontSize="15"/>
+    </Grid>
+</Window>

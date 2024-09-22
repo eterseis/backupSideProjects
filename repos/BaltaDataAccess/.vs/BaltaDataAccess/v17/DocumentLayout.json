@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|c:\\users\\administrator\\source\\repos\\baltadataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|c:\\users\\administrator\\source\\repos\\baltadataaccess\\models\\careeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|solutionrelative:models\\careeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|c:\\users\\administrator\\source\\repos\\baltadataaccess\\models\\career.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|solutionrelative:models\\career.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|c:\\users\\administrator\\source\\repos\\baltadataaccess\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|c:\\users\\administrator\\source\\repos\\baltadataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92ECDC-67B6-497B-9195-90DD75005730}|BaltaDataAccess.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Career.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\Career.cs",
+              "RelativeDocumentMoniker": "Models\\Career.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\Career.cs",
+              "RelativeToolTip": "Models\\Career.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:04:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CareerItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\CareerItem.cs",
+              "RelativeDocumentMoniker": "Models\\CareerItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\CareerItem.cs",
+              "RelativeToolTip": "Models\\CareerItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:34:18.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:33:15.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:05:00.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BaltaDataAccess\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:15:40.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

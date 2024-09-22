@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="swed32" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ezOverLay">
+      <HintPath>..\..\..\..\Downloads\ezOverLay.dll-master\ezOverLay.dll-master\ezOverLay\bin\Debug\ezOverLay.dll</HintPath>
+    </Reference>
+    <Reference Include="Icicle">
+      <HintPath>..\..\Mouse\Mouse\bin\Debug\net8.0\Icicle.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

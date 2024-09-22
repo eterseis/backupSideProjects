@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Frost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C6F2BE-01F0-4D46-B2FE-ACD956A12BE8}|Frost\\Frost.csproj|c:\\users\\administrator\\source\\repos\\frost\\frost\\core\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C6F2BE-01F0-4D46-B2FE-ACD956A12BE8}|Frost\\Frost.csproj|solutionrelative:frost\\core\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C6F2BE-01F0-4D46-B2FE-ACD956A12BE8}|Frost\\Frost.csproj|c:\\users\\administrator\\source\\repos\\frost\\frost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C6F2BE-01F0-4D46-B2FE-ACD956A12BE8}|Frost\\Frost.csproj|solutionrelative:frost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C6F2BE-01F0-4D46-B2FE-ACD956A12BE8}|Frost\\Frost.csproj|c:\\users\\administrator\\source\\repos\\frost\\frost\\frost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{02C6F2BE-01F0-4D46-B2FE-ACD956A12BE8}|Frost\\Frost.csproj|solutionrelative:frost\\frost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Core\\Mouse.cs",
+              "RelativeDocumentMoniker": "Frost\\Core\\Mouse.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Core\\Mouse.cs",
+              "RelativeToolTip": "Frost\\Core\\Mouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:35:46.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frost",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Frost.csproj",
+              "RelativeDocumentMoniker": "Frost\\Frost.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Frost.csproj",
+              "RelativeToolTip": "Frost\\Frost.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T23:26:46.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Program.cs",
+              "RelativeDocumentMoniker": "Frost\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Program.cs",
+              "RelativeToolTip": "Frost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:57:49.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

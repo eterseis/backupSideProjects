@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\bin\Debug\net8.0\BlazorCliente.Shared.deps.json
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\bin\Debug\net8.0\BlazorCliente.Shared.dll
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\bin\Debug\net8.0\BlazorCliente.Shared.pdb
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\BlazorCliente.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\BlazorCliente.Shared.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\BlazorCliente.Shared.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\BlazorCliente.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\BlazorCliente.Shared.dll
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\refint\BlazorCliente.Shared.dll
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\BlazorCliente.Shared.pdb
+C:\Users\Administrator\source\repos\BlazorCliente\BlazorCliente.Shared\obj\Debug\net8.0\ref\BlazorCliente.Shared.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TryingTOdecide\bin\Debug\net8.0\TryingTOdecide.exe
+C:\Users\Administrator\source\repos\TryingTOdecide\bin\Debug\net8.0\TryingTOdecide.deps.json
+C:\Users\Administrator\source\repos\TryingTOdecide\bin\Debug\net8.0\TryingTOdecide.runtimeconfig.json
+C:\Users\Administrator\source\repos\TryingTOdecide\bin\Debug\net8.0\TryingTOdecide.dll
+C:\Users\Administrator\source\repos\TryingTOdecide\bin\Debug\net8.0\TryingTOdecide.pdb
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.dll
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\refint\TryingTOdecide.dll
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.pdb
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\TryingTOdecide.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\TryingTOdecide\obj\Debug\net8.0\ref\TryingTOdecide.dll

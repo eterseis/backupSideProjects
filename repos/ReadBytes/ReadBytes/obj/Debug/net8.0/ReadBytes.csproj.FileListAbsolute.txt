@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\bin\Debug\net8.0\ReadBytes.exe
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\bin\Debug\net8.0\ReadBytes.deps.json
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\bin\Debug\net8.0\ReadBytes.runtimeconfig.json
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\bin\Debug\net8.0\ReadBytes.dll
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\bin\Debug\net8.0\ReadBytes.pdb
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.dll
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\refint\ReadBytes.dll
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.pdb
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ReadBytes.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ReadBytes\ReadBytes\obj\Debug\net8.0\ref\ReadBytes.dll

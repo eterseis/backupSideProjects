@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\LearningC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C622512-AB0B-49A8-AEB0-C9806E26AFFC}|LearningC.vcxproj|C:\\Users\\Administrator\\source\\repos\\LearningC\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C622512-AB0B-49A8-AEB0-C9806E26AFFC}|LearningC.vcxproj|solutionrelative:Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningC\\Program.c",
+              "RelativeDocumentMoniker": "Program.c",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningC\\Program.c",
+              "RelativeToolTip": "Program.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-05T00:54:46.066Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

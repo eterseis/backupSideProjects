@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FEmdJcwpakc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Frost\\Frost\\Frost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\swed32\\1.1.0\\swed32.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

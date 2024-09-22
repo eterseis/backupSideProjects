@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\entity handling\\acentitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\entity handling\\acentitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\entitymanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\entitymanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\entity handling\\rblxentitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\entity handling\\rblxentitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\entity handling\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\entity handling\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\game offsets\\offsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\game offsets\\offsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|c:\\users\\administrator\\source\\repos\\entitymanager\\entitymanager\\entity structures\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F76A0-26F2-4D4C-8797-0CD962405977}|EntityManager\\EntityManager.csproj|solutionrelative:entitymanager\\entity structures\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityManager",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\EntityManager.csproj",
+              "RelativeDocumentMoniker": "EntityManager\\EntityManager.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\EntityManager.csproj",
+              "RelativeToolTip": "EntityManager\\EntityManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T01:25:34.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RBLXEntityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Handling\\RBLXEntityManager.cs",
+              "RelativeDocumentMoniker": "EntityManager\\Entity Handling\\RBLXEntityManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Handling\\RBLXEntityManager.cs",
+              "RelativeToolTip": "EntityManager\\Entity Handling\\RBLXEntityManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:11:04.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Handling\\EntityManager.cs",
+              "RelativeDocumentMoniker": "EntityManager\\Entity Handling\\EntityManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Handling\\EntityManager.cs",
+              "RelativeToolTip": "EntityManager\\Entity Handling\\EntityManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:07:36.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Offsets.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Game Offsets\\Offsets.cs",
+              "RelativeDocumentMoniker": "EntityManager\\Game Offsets\\Offsets.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Game Offsets\\Offsets.cs",
+              "RelativeToolTip": "EntityManager\\Game Offsets\\Offsets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:09:59.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACEntityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Handling\\ACEntityManager.cs",
+              "RelativeDocumentMoniker": "EntityManager\\Entity Handling\\ACEntityManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Handling\\ACEntityManager.cs",
+              "RelativeToolTip": "EntityManager\\Entity Handling\\ACEntityManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:05:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Structures\\Entity.cs",
+              "RelativeDocumentMoniker": "EntityManager\\Entity Structures\\Entity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Entity Structures\\Entity.cs",
+              "RelativeToolTip": "EntityManager\\Entity Structures\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:58:47.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Program.cs",
+              "RelativeDocumentMoniker": "EntityManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EntityManager\\EntityManager\\Program.cs",
+              "RelativeToolTip": "EntityManager\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:55:53.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

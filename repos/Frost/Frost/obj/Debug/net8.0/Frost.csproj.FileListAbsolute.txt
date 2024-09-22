@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Frost\Frost\bin\Debug\net8.0\Frost.exe
+C:\Users\Administrator\source\repos\Frost\Frost\bin\Debug\net8.0\Frost.deps.json
+C:\Users\Administrator\source\repos\Frost\Frost\bin\Debug\net8.0\Frost.runtimeconfig.json
+C:\Users\Administrator\source\repos\Frost\Frost\bin\Debug\net8.0\Frost.dll
+C:\Users\Administrator\source\repos\Frost\Frost\bin\Debug\net8.0\Frost.pdb
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.csproj.Up2Date
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.dll
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\refint\Frost.dll
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.pdb
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\Frost.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Frost\Frost\obj\Debug\net8.0\ref\Frost.dll
+C:\Users\Administrator\source\repos\Frost\Frost\bin\Debug\net8.0\swed32.dll

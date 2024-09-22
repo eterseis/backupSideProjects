@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|c:\\users\\administrator\\source\\repos\\accheetos\\accheetos\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|solutionrelative:accheetos\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|c:\\users\\administrator\\source\\repos\\accheetos\\accheetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|solutionrelative:accheetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|c:\\users\\administrator\\source\\repos\\accheetos\\accheetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|solutionrelative:accheetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|c:\\users\\administrator\\source\\repos\\accheetos\\accheetos\\offsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|solutionrelative:accheetos\\offsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|C:\\Users\\Administrator\\source\\repos\\ACCheetos\\accheetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|solutionrelative:accheetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|c:\\users\\administrator\\source\\repos\\accheetos\\accheetos\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57261093-D36D-4F8E-BCF4-53BFFEA59589}|ACCheetos\\ACCheetos.csproj|solutionrelative:accheetos\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Methods.cs",
+              "RelativeDocumentMoniker": "ACCheetos\\Methods.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Methods.cs",
+              "RelativeToolTip": "ACCheetos\\Methods.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:22:45.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Data.cs",
+              "RelativeDocumentMoniker": "ACCheetos\\Data.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Data.cs",
+              "RelativeToolTip": "ACCheetos\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:59:08.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Offsets.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Offsets.cs",
+              "RelativeDocumentMoniker": "ACCheetos\\Offsets.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Offsets.cs",
+              "RelativeToolTip": "ACCheetos\\Offsets.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:34:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Form1.cs",
+              "RelativeDocumentMoniker": "ACCheetos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Form1.cs",
+              "RelativeToolTip": "ACCheetos\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:30:17.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Program.cs",
+              "RelativeDocumentMoniker": "ACCheetos\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Program.cs",
+              "RelativeToolTip": "ACCheetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:29:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Form1.cs",
+              "RelativeDocumentMoniker": "ACCheetos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ACCheetos\\ACCheetos\\Form1.cs [Design]",
+              "RelativeToolTip": "ACCheetos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:30:15.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
